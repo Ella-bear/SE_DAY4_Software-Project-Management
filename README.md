@@ -93,12 +93,24 @@ How would you describe your software solution in a way that captures its essence
 Our software solution, Mamafua, is a digital bridge connecting households in need of reliable domestic services with skilled and trustworthy domestic workers. It's designed to simplify the process of finding and hiring help for your home, ensuring that both homeowners and domestic workers benefit from a transparent, fair, and efficient platform.
 #
 What are the main features or functionalities that make your software stand out?
-
+Comprehensive Worker Profiles for Custom Selection
+Customers have the autonomy to select their preferred domestic worker from a detailed list of available profiles. Each worker's profile is comprehensive, including:
+Personal Information: Name, phone number, and ID number, ensuring transparency and facilitating direct communication.
+Visual Identification: A full picture of the worker, helping customers put a face to the name and build trust.
+Ratings and Reviews: A clear display of ratings and reviews from previous customers, giving new clients insights into the worker's reliability and quality of service.
+Tailored Sign-Up Process
+The sign-up process is designed to streamline the user experience, offering a section option that allows users to identify themselves as either customers or service providers. This distinction ensures that:
+Customers are directed to a dashboard tailored to their needs, with features like browsing worker profiles, booking services, and managing appointments.
+Service Providers access a dashboard focused on showcasing their skills, managing their availability, and engaging with potential clients.
 #
 What data is available regarding the market size and growth potential for your software?
+ILO Report on Domestic Workers: The International Labour Organization (ILO) has conducted extensive research on domestic workers. According to their report, there are over 67 million domestic workers worldwide, emphasizing the vast potential user base for a platform like MamaFua (International Labour Organization, 2016).
+Reference: International Labour Organization. (2016). Domestic workers across the world: Global and regional statistics and the extent of legal protection.
 
+Growth of the Gig Economy: The gig economy has seen significant growth globally, driven by digital platforms connecting service providers with customers. This includes sectors such as cleaning services, which are relevant to domestic workers (De Stefano, V., 2016).
+Reference: De Stefano, V. (2016). The rise of the "just-in-time workforce": On-demand work, crowdwork, and labor protection in the "gig-economy". International Labour Office.
 #
 How can understanding market trends inform your software’s positioning and development?
-
+Target Market Expansion: Given the growth projections of the gig economy and the domestic work sector, Mamafua should look to expand its reach to urban centers and regions with high demand for domestic services. This could involve targeting cities with significant dual-income households and a growing middle class.
 
 
