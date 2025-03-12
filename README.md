@@ -74,13 +74,23 @@ Benefits of a project schedule:
 -Risk Management: Detailed project schedules allow for identifying and mitigating schedule risks, especially those affecting the critical path, by providing insights into potential delays and resource conflicts.
 -Stakeholder Satisfaction: A comprehensive and well-organized project schedule fosters confidence and satisfaction among stakeholders by demonstrating a structured plan, reliable execution, and professional management of complex tasks.
 #
-What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+What are the core issues that your software aims to address?
+- Employment Opportunities: Create sustainable and dignified employment opportunities for domestic workers, helping them find consistent work.
+- Service Connection: Facilitate a seamless connection between customers and reliable domestic service providers, thereby easing the customers' home workload.
+- Fair Compensation: Ensure that domestic workers receive fair and equitable pay that reflects the value of their work hours and the quality of their services, avoiding unfair low wages.
+
+Why are these problems significant to your target audience?
+Domestic Workers: The primary goal of domestic workers revolves around payment and security. There is severe underpayment and exploitation of many domestic workers because there are little regulations in the sector. By solving these issues, Mamafua can provide a platform where these workers can be hired and paid according to their skill set. This not only increases their income, but also improves their quality of life and job satisfaction.  
+
+Homeowners/ Customers: On the other side of the spectrum, homeowners or customers looking for domestic services also have a hard time getting dependable service providers. The whole process of getting the right domestic worker who meets one’s standards is cumbersome and takes a lot of time. Mamafua has the potential to effortlessly transform the experience by guaranteeing that customers receive services that meet their high standards quality. The ease of use and the quality of service provided, will be a bonus to busy individuals and families.
 #
 How can clearly defining the problem help in developing a more effective software solution?
-
+Focused Solution Development: A clear understanding of the problem ensures that the software solution is designed to specifically address the core issues at hand. This focus prevents the development of unnecessary features and keeps the solution aligned with the needs of both domestic workers and customers.
+Measurable Outcomes: Clearly defined problems enable you to set specific, measurable goals for your software solution. This makes it easier to evaluate the success of the solution and make data-driven decisions for future improvements.
+Stakeholder Alignment: When the problem is clearly articulated, it becomes easier to communicate the vision and objectives of the software solution to stakeholders, including investors, partners, and team members. This alignment fosters collaboration and support for the project.
 #
 How would you describe your software solution in a way that captures its essence without diving into technical details?
-
+Our software solution, Mamafua, is a digital bridge connecting households in need of reliable domestic services with skilled and trustworthy domestic workers. It's designed to simplify the process of finding and hiring help for your home, ensuring that both homeowners and domestic workers benefit from a transparent, fair, and efficient platform.
 #
 What are the main features or functionalities that make your software stand out?
 
